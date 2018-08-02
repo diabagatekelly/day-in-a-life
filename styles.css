@@ -1,24 +1,41 @@
 html {
   height: 100%;
 }
-header {
-  margin: 0px;
-}
+
 body {
   background-color: antiquewhite;
   min-height: 100%;
   margin: 0;
 }
 
+.h1 {
+  width: 920px;
+  height: 400px;
+  float: right;
+  margin: 0px;
+}
+
+.image {
+  float: left;
+  width: 400px;
+  height: 400px;
+  padding: 0px;
+  margin: 0px;
+}
+
 h1 {
   text-align: center;
-  text-decoration: underline;
   font-weight: bold;
   font-size: 60px;
-  background-color: blue;
-  padding: 50px;
+  padding: 0px;
   margin: 0px;
+}
 
+img {
+  width: 400px;
+  height: 400px;
+  padding: 0px;
+  margin: 0px;
 }
 
 h2 {
